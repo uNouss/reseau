@@ -1,0 +1,81 @@
+LOGIN : sowy
+HOST : acajou25
+
+Q2. Couche application (FTP)
+Q2.1. Quel est le nom symbolique complet du serveur ?
+┌--- début zone de réponse ci-dessous ---
+ftp.test.univ-lille.fr
+└--- fin de zone de réponse ---
+
+
+Q2.2. Combien de commandes FTP ont été utilisées lors de cette communication ?
+┌--- début zone de réponse ci-dessous ---
+20
+└--- fin de zone de réponse ---
+
+
+Q2.3. Quel est le login de l'utilisateur souhaitant se connecté au serveur FTP ?
+┌--- début zone de réponse ci-dessous ---
+m2102ctp
+└--- fin de zone de réponse ---
+
+
+Q2.4. Quel est le mot de passe utilisé pour se connecter à ce compte ?
+┌--- début zone de réponse ci-dessous ---
+en clair
+└--- fin de zone de réponse ---
+
+
+Q2.5. Quel est le système d'exploitation utilisé du coté du serveur ?
+┌--- début zone de réponse ci-dessous ---
+OS/400
+└--- fin de zone de réponse ---
+
+
+Q2.6. Quelle commande a été utilisée pour ouvrir le canal de données. Indiquez la commande et le numéro de la trame transportant cette commande.
+┌--- début zone de réponse ci-dessous ---
+SITE NAMEFMT
+└--- fin de zone de réponse ---
+
+
+Q2.7. Dans cette communication, le client a récupéré un fichier. Donnez le nom complet de ce fichier.
+┌--- début zone de réponse ci-dessous ---
+qgpl/apkeyf.apkeyf
+└--- fin de zone de réponse ---
+
+
+Q3. Niveau Transport (TCP) et Réseau (IP)
+Q3.1. Donnez l'adresse IP du client.
+┌--- début zone de réponse ci-dessous ---
+10.20.144.150
+└--- fin de zone de réponse ---
+
+
+Q3.2. Donnez l'adresse IP du serveur.
+┌--- début zone de réponse ci-dessous ---
+10.20.144.151
+└--- fin de zone de réponse ---
+
+
+Q3.3. Donnez le port utilisé par le serveur pour le canal de contrôle.
+┌--- début zone de réponse ci-dessous ---
+21
+└--- fin de zone de réponse ---
+
+
+Q3.4. Donnez le port utilisé par le client pour le canal de contrôle.
+┌--- début zone de réponse ci-dessous ---
+35974
+└--- fin de zone de réponse ---
+
+
+Q3.5. Donnez le port utilisé par le serveur pour le canal de données.
+┌--- début zone de réponse ci-dessous ---
+35976
+└--- fin de zone de réponse ---
+
+
+Q3.6. Donnez le port utilisé par le client pour le canal de données.
+┌--- début zone de réponse ci-dessous ---
+16013
+└--- fin de zone de réponse ---
